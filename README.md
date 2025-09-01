@@ -62,7 +62,7 @@ This scan was looking for 20 distinct ports and all IPs have the following ports
 
 ## ⚡ Lab Step-By-Step – Network Service Discovery via PCAP  
 
-### 🔍 Step 1: MITRE ATT&CK Mapping  
+### 🔍 MITRE ATT&CK Mapping  
 - Navigate to the **MITRE ATT&CK Framework**.  
 - Under the **Discovery** tactic, select the technique:  
   - **T1046 – Network Service Discovery**  
